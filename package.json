@@ -1,0 +1,24 @@
+{
+  "name": "react-pricing",
+  "version": "1.0.0",
+  "description": "用于对价格格式化，保留小数点，小符号等的处理组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dg-mp": "dg-mp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tccsg/react-pricing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tccsg/react-pricing/issues"
+  },
+  "homepage": "https://github.com/tccsg/react-pricing#readme",
+  "dependencies": {
+    "dg-mp": "^1.0.3"
+  }
+}
